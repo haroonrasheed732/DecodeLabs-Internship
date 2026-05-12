@@ -25,16 +25,16 @@ decodelabs-python-portfolio/
 ├── 📄 README.md
 │
 ├── 📁 Project_1_ToDo_List/
-│   └── todo_list.py
+│   └── Todo_List_in_python.ipynb
 │
 ├── 📁 Project_2_Expense_Tracker/
-│   └── expense_tracker.py
+│   └── Expense_Tracker_python_2.ipynb
 │
 ├── 📁 Project_3_Password_Generator/
-│   └── password_generator.py
+│   └── RANDOM_PASSWORD_GERNERATOR.ipynb
 │
 └── 📁 Project_4_Contact_Book/
-    └── contact_book.py
+    └── Contact_Book.ipynb
 ```
 
 ---
@@ -297,7 +297,7 @@ Volatile RAM           →    Persistent Database (SQLite / PostgreSQL)
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Haroon Rasheed]**
 Junior Python Developer Intern @ DecodeLabs
 Batch 2026
 
